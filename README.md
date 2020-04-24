@@ -56,3 +56,4 @@ _Note:_ running all tests with the command `go test ./...` will currently fail a
 If you want to run integration tests (costs money), set up the EC2 environment variables as usual, and run:
 
 $ gotest -i
+
